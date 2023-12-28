@@ -1,0 +1,10 @@
+{
+    "apiKey": "asdfasdfdasfasdf",
+    "apiKeySecret": "asdfasdfasdvsdf",
+    "accessToken": "asdfadsfsadfasdf",
+    "accessTokenSecret": "fasdfasdfasdf",
+    "bearerToken": "fasdfsadfasdf",
+    "clientID": "asdfasdfasdfsa",
+    "clientSecret": "asdfasdfasdfads",
+    "textToTweet": "Your Content Name"
+}
